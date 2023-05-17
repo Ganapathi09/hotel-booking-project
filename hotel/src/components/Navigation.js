@@ -11,8 +11,8 @@ function Navigation() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav>
             <Nav.Link href="/home">Home</Nav.Link>
-            <Nav.Link href="*">Register</Nav.Link>
             <Nav.Link href="/">login</Nav.Link>
+            <Nav.Link href="*">Register</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

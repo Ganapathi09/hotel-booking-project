@@ -1,5 +1,3 @@
-// App.js
-
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Room from '../components/Room';
@@ -15,7 +13,7 @@ function Homescreen() {
 
       try {
         setloading(true);
-        const data = (await axios.get("/api/v1/auth/getallrooms")).data;
+        const data = (await axios.get('/api/rooms/getallrooms')).data;
 
         setroom(data);
 
@@ -26,13 +24,13 @@ function Homescreen() {
       } catch (error) {
         seterror(true)
         console.log(error)
-        setloading(false);
+        setloading(false)
         
 
       }
     }
 fetchData()
-    }, ['api//rooms/getallrooms'])
+    }, ['api/rooms/getallrooms'])
 
   return (
     <div className='container'>

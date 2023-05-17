@@ -1,30 +1,17 @@
-import  express  from "express";
-import dotenv from "dotenv";
-import router from "./routes/roomsRoute.js";
+const express = require("express");
 
-import connectdb from './db.js'
-import morgan from "morgan";
+const app = express();
 
-// configure env
-dotenv.config()
-
-//rest object
-const app = express()
-
-//calling the mongodb connection code
-
-connectdb()
-
-// to get all rooms
-
-app.use(express.json())
-app.use (morgan('dev'))
+const dbconfig = require('./db')
+const roomsRoute = require('./routes/roomsRoute')
+const usersRoute = require('./routes/usersRoute')
 
 app.use(express.json())
 
-app.use('/api/v1/auth',router)
+app.use('/api/rooms' , roomsRoute)
+app.use('/api/users' , usersRoute)
+
 
 const port = process.env.PORT || 5000
- app.listen(port,()=>{
-    console.log('app listening on port 5000')
- });
+
+app.listen(port, () => console.log('Nodemon server started'));
