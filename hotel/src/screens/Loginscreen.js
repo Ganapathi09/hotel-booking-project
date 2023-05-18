@@ -1,4 +1,4 @@
-import React, { useState,useEffect } from 'react'
+import React, { useState } from 'react'
 import { Button, Form } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
 import '../index.css'
@@ -20,7 +20,7 @@ function Loginscreen() {
             <div className='row justify-content-center mt-1'>
                 <div className='col-md-4'>
                     <Form className='bs'>
-                        <h1 align="center">Ligin</h1><br />
+                        <h1 align="center">Login</h1><br />
                         <div className='mb-3'>
                             <input type='email' className='form-control' placeholder='Email'
                                 onChange={(event) => { setEmail(event.target.value) }} value={email} /><br />

@@ -8,9 +8,10 @@ function Bookingscreen() {
   const [error, seterror] = useState();
   const [room, setroom] = useState();
  
-
-  useEffect( async() => {
+  const {roomid} = useParams();
+  useEffect( () => {
     
+     async function fetchDatabyid(){
       try {
         setLoading(true);
         const data = (await axios.post("/api/rooms/getroombyid", { roomid: roomid })).data;
@@ -21,15 +22,18 @@ function Bookingscreen() {
         seterror(true);
         setLoading(false);
       }
+
+     }
+     fetchDatabyid()
     
     
-  }, []);
-  let {roomid} = useParams();
+  }, [roomid]);
+  
 
 
   return (
     <div className='m-5'>
-      {loading ? (<h1></h1>) : error ? (<h1>Error..</h1>) : (
+      {loading ? (<h1>loading</h1>) : room ?  (
         <div>
           <div className='row justify-content-center mt-5 bs'>
           <div className='col-md-5'>
@@ -68,7 +72,7 @@ function Bookingscreen() {
 
           </div>
         </div>
-      )}
+      ):(<h1>Error..</h1>)}
      
     </div>
   );
