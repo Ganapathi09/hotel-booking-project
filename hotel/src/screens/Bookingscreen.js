@@ -3,6 +3,7 @@ import axios from 'axios';
 import {Link, useParams} from 'react-router-dom';
 import Button from 'react-bootstrap/esm/Button';
 
+
 function Bookingscreen() {
   const [loading, setLoading] = useState(true);
   const [error, seterror] = useState();
@@ -56,13 +57,13 @@ function Bookingscreen() {
               <hr/>
                 <b>
                   <p>Total Days:</p>
-                  <p>Rent per Days:</p>
+                  <p>Rent per Days:{room.rentperday}</p>
                   <p>Total Amount:</p>
                   </b>
 
                 </div>
                 <div style={{float:'right'}}>
-                  <Button className='btn btn-primary'>Paynow</Button>
+                  <Button className='btn btn-primary m-2'>Paynow</Button>
                   <Link to='/home'><Button className='btn btn-primary'>Go back</Button></Link>
 
                 </div>

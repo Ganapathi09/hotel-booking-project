@@ -5,7 +5,7 @@ import Carousel from 'react-bootstrap/Carousel';
 import { Link } from 'react-router-dom';
 
 
-function Room({ room }) {
+function Room({ room, fromdate, todate }) {
   const [show, setShow] = useState(false);
 
   const handleClose = () => setShow(false);
@@ -25,7 +25,7 @@ function Room({ room }) {
 
         <div style={{ float: 'right' }}>
           <Link to={`/book/${room._id}`}>
-          <button className='btn btn-primary m-2'>Book Now</button>
+            <button className='btn btn-primary m-2'>Book N ow</button>
           </Link>
           <button className='btn btn-primary' onClick={handleShow}>View Details</button>
         </div>
@@ -39,16 +39,16 @@ function Room({ room }) {
         </Modal.Header>
         <Modal.Body>
           <Carousel>
-          {room.imageurls.map(url=>{
-            return <Carousel.Item>
-            <img
-              className="d-block w-100 bigimg"
-              src={url}
-            
-            />
-            
-          </Carousel.Item>
-          })}
+            {room.imageurls.map(url => {
+              return <Carousel.Item>
+                <img
+                  className="d-block w-100 bigimg"
+                  src={url}
+
+                />
+
+              </Carousel.Item>
+            })}
 
 
 

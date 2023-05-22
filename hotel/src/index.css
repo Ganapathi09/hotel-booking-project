@@ -50,3 +50,15 @@ h1{
   border-radius: 5px;
 
 }
+hr{
+  background: rgba(0, 0, 0, 0);
+  color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0);
+  margin-inline-start: 100px;
+  margin-inline-end: 1px;
+}
+.dropdown-toggle{
+  border: 0px solid black !important;
+  box-shadow: none;
+
+}
