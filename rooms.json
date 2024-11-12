@@ -1,0 +1,114 @@
+[
+    {
+        "name":"SPOT-ON SingleBed Room Hotel Brindavan-Santhekatte, Udupi-576114 Karnataka",
+        "imageurls":[
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/singleroom/singlebedview1.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/singleroom/singleroomfront.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/singleroom/mirror.jpg"
+        ],
+        "rentperday":7000,
+        "type":"Delux",
+        "maxcount":3,
+        "phonenumber":5435425424,
+        "currentbookings":[],
+        "description":"A single room deluxe typically refers to a hotel room that is designed to offer a higher level of comfort and luxury than a standard room. This type of room may feature larger dimensions, higher quality furnishings and amenities, and a more upscale decor. Deluxe rooms may also include additional amenities such as a minibar, flat-screen TV, luxury bedding and bath products, and other upscale features to enhance the guest's experience. However, the specific features and amenities of a single room deluxe can vary depending on the hotel or accommodation provider."
+    },
+    {
+        "name":" OYO FlagShip SingleBed Room Hotel Brindavan-Santhekatte, Udupi-576114 Karnataka",
+        "imageurls":[
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/singleroom/singlebedview2.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/singleroom/singleroommiddle.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/singleroom/washroom.jpg"
+        ],
+        "rentperday":6000,
+        "type":"Non-Delux",
+        "maxcount":3,
+        "phonenumber":8456425424,
+        "currentbookings":[],
+        "description":"A single room non-deluxe is a standard hotel room that is typically smaller in size and more basic in terms of furnishings and amenities compared to a deluxe room. Non-deluxe rooms usually feature standard bedding, a basic bathroom with essential amenities, and a television. They may not have extra features like a minibar or luxury toiletries, and the decor may be more modest. However, non-deluxe rooms are typically less expensive than deluxe rooms, making them a popular choice for budget-conscious travelers. The specific features and amenities of a single room non-deluxe can vary depending on the hotel or accommodation provider."
+    },
+    {
+        "name":"SPOT-ON DoubleBed Room Hotel Brindavan-Santhekatte, Udupi-576114 Karnataka",
+        "imageurls":[
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/doubleroom/doublebedview1.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/doubleroom/doubleroomfront.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/doubleroom/washroom.jpg"
+        ],
+        "rentperday":9000,
+        "type":"Delux",
+        "maxcount":3,
+        "phonenumber":5438965424,
+        "currentbookings":[],
+        "description":"A double room deluxe typically refers to a hotel room that is designed to offer a higher level of comfort and luxury than a standard room. This type of room is similar to a single room deluxe, but with enough space to accommodate two guests. Deluxe rooms often feature larger dimensions, higher quality furnishings and amenities, and a more upscale decor. They may also include additional amenities such as a minibar, flat-screen TV, luxury bedding and bath products, and other upscale features to enhance the guest's experience. However, the specific features and amenities of a double room deluxe can vary depending on the hotel or accommodation provider."
+    },
+    {
+        "name":"OYO FlagShip DoubleBed Hotel Brindavan-Santhekatte, Udupi-576114 Karnataka",
+        "imageurls":[
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/doubleroom/doublebedview2.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/doubleroom/doubleroommiddle.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/doubleroom/mirror.jpg"
+        ],
+        "rentperday":8500,
+        "type":"Non-Delux",
+        "maxcount":3,
+        "phonenumber":5439635424,
+        "currentbookings":[],
+        "description":"A double room non-deluxe is a standard hotel room that can accommodate two guests and is typically smaller in size and more basic in terms of furnishings and amenities compared to a deluxe room. Non-deluxe rooms usually feature standard bedding, a basic bathroom with essential amenities, and a television. They may not have extra features like a minibar or luxury toiletries, and the decor may be more modest. However, non-deluxe rooms are typically less expensive than deluxe rooms, making them a popular choice for budget-conscious travelers. The specific features and amenities of a double room non-deluxe can vary depending on the hotel or accommodation provider."
+    },
+    {
+        "name":"SPOT-ON KingRoom Hotel Brindavan-Santhekatte, Udupi-576114 Karnataka",
+        "imageurls":[
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/kingroom/KingBed1.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/kingroom/KingBed2.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/kingroom/washroom.jpg"
+        ],
+        "rentperday":9000,
+        "type":"Delux",
+        "maxcount":3,
+        "phonenumber":5434563424,
+        "currentbookings":[],
+        "description":"A king room deluxe is a hotel room that features a large king-size bed, which is usually the most spacious type of bed available in a hotel room. This type of room is designed to offer a higher level of comfort and luxury compared to a standard room. Deluxe king rooms may feature larger dimensions, higher quality furnishings and amenities, and a more upscale decor. They may also include additional amenities such as a minibar, flat-screen TV, luxury bedding and bath products, and other upscale features to enhance the guest's experience. However, the specific features and amenities of a king room deluxe can vary depending on the hotel or accommodation provider."
+    },
+    {
+        "name":"OYO FlagShip KingRoom Hotel Brindavan-Santhekatte, Udupi-576114 Karnataka",
+        "imageurls":[
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/kingroom/KingBed3.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/kingroom/KingBed4.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/kingroom/mirror.jpg"
+        ],
+        "rentperday":8000,
+        "type":"Non-Delux",
+        "maxcount":3,
+        "phonenumber":54354258632,
+        "currentbookings":[],
+        "description":"A king room non-deluxe is a standard hotel room that features a large king-size bed, which is usually the most spacious type of bed available in a hotel room. This type of room is typically smaller in size and more basic in terms of furnishings and amenities compared to a deluxe room. Non-deluxe king rooms usually feature standard bedding, a basic bathroom with essential amenities, and a television. They may not have extra features like a minibar or luxury toiletries, and the decor may be more modest. However, non-deluxe king rooms are typically less expensive than deluxe rooms, making them a popular choice for budget-conscious travelers. The specific features and amenities of a king room non-deluxe can vary depending on the hotel or accommodation provider."
+    },
+    {
+        "name":"SPOT-ON FamilyRoom Hotel Brindavan-Santhekatte, Udupi-576114 Karnataka",
+        "imageurls":[
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/familyroom/famroom-1.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/familyroom/famroom-2.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/familyroom/famroom-3.jpg"
+        ],
+        "rentperday":8000,
+        "type":"Delux",
+        "maxcount":3,
+        "phonenumber":5435484234,
+        "currentbookings":[],
+        "description":"A family room deluxe is a larger hotel room that is designed to accommodate families or groups of travelers. This type of room usually has one or more beds in addition to a sofa bed or pull-out bed, allowing it to comfortably sleep several guests. Deluxe family rooms are typically larger in size and offer more space for guests to relax and unwind. They may feature higher quality furnishings and amenities, a more upscale decor, and additional amenities such as a minibar, flat-screen TV, luxury bedding and bath products, and other upscale features to enhance the guest's experience. The specific features and amenities of a family room deluxe can vary depending on the hotel or accommodation provider"
+    },
+    {
+        "name":"OYO FlagShip FamilyRoom Hotel Brindavan-Santhekatte, Udupi-576114 Karnataka",
+        "imageurls":[
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/familyroom/famroom-4.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/familyroom/famroom-5.jpg",
+            "https://raw.githubusercontent.com/cool30/ideal-pix/main/after_loggedin/rooms/familyroom/famroom-6.jpg"
+        ],
+        "rentperday":7000,
+        "type":"Non-Delux",
+        "maxcount":3,
+        "phonenumber":5435428652,
+        "currentbookings":[],
+        "description":"A family room non-deluxe is a standard hotel room that is designed to accommodate families or groups of travelers. This type of room usually has one or more beds in addition to a sofa bed or pull-out bed, allowing it to comfortably sleep several guests. Non-deluxe family rooms are typically smaller in size and offer basic furnishings and amenities that are suitable for a comfortable stay. They may feature standard bedding, a basic bathroom with essential amenities, and a television. However, non-deluxe family rooms are typically less expensive than deluxe rooms, making them a popular choice for budget-conscious families or groups. The specific features and amenities of a family room non-deluxe can vary depending on the hotel or accommodation provider."
+    }
+]
